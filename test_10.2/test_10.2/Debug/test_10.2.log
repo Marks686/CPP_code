@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\代码\CPP_code\CPP_code\test_10.2\test_10.2\test.cpp(30,5): error C2365: “rand”: 重定义；以前的定义是“函数”
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(352): message : 参见“rand”的声明
+D:\代码\CPP_code\CPP_code\test_10.2\test_10.2\test.cpp(34,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (__cdecl *)(void)”
